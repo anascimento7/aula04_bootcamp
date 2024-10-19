@@ -101,3 +101,28 @@
 #        frequencia[letra] = 1
 
 #print(frequencia)
+
+
+# Escreva uma função que receba uma lista de números e retorne a soma de todos os números.
+
+#def soma(lista: list) -> float:
+#    soma_numero = 0
+#    for numero in lista:    
+#        soma_numero += numero
+#    
+#    return soma_numero
+
+#lista: list = [3, 5, 6, 5.3]
+
+#print(soma(lista))
+
+
+
+# Desenvolva uma função que receba uma string como argumento e retorne essa string revertida.
+
+#def inverter_texto(texto: str) -> str:
+#    return texto[::-1]
+
+#texto: str = "Testando minha função"
+
+#print(inverter_texto(texto))
